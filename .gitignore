@@ -2,6 +2,8 @@ f90wrap_pyhmcode/
 include/
 lib/
 build/
+bin/
 
 .vscode
 .DS_Store
+.fortls
